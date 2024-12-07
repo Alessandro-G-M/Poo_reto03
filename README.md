@@ -212,7 +212,6 @@ classDiagram
         + __init__()
         + add_item(item: MenuItem)
         + calculate_total()
-        + show_order()
     }
     
     MenuItem <|-- Beverage
